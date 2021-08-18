@@ -19,7 +19,7 @@ A collection of resources for you to explore and learn.
 
 ### Community
 
-- Support: beta@supabase.io
+- Support: support@supabase.io
 - GitHub: https://github.com/supabase/supabase
 - Discussions & Forums: https://github.com/supabase/supabase/discussions
 - Twitter: https://twitter.com/supabase
